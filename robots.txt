@@ -1,0 +1,5 @@
+User-agent*
+Disallow:/about_us.html
+Disallow:/info.html
+
+Sitemap:https://github.com/Nageshwar-stp/Web-design.git

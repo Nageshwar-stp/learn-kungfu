@@ -1,0 +1,51 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+header{
+    background-image: linear-gradient(45deg,red, blue);
+    height: 100vh;
+    background-size: cover;
+}
+
+.about{
+    text-align: center;
+    padding-top: 100px;
+    text-transform: none;
+    color: darkorange;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 4px 4px 4px  black;
+}
+
+.details{
+    padding-top: 70px;
+    text-align:center;
+    color: rgb(107, 189, 132);
+    font-size: 30px;
+    font-family: Maiandra GD;
+    
+}
+
+.button{
+    margin-left: 610px;
+    margin-top: 100px;
+    
+}
+
+.home{
+    color: white;
+    border: 1px solid white;
+    font-size: 25px;
+    text-decoration: none;
+    padding: 5px;
+    font-family: monospace;
+}
+
+.home:hover{
+    color: greenyellow;
+    border: 2px solid black;
+
+
+}

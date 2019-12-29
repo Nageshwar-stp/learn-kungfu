@@ -1,0 +1,144 @@
+*{
+    margin:0;
+    padding: 0;
+
+}
+
+header{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(background.jpg);
+    height: 100vh;
+    background-size: cover;
+}
+
+.list{
+    float: right;
+    list-style: none;
+    margin-top: 30px;
+}
+
+.list li{
+    display: inline-block;
+
+}
+
+.list li a{
+    color:white;
+    text-decoration: none;
+    padding: 5px 25px;
+    font-family: monospace;
+    font-size: 25px;
+}
+
+
+
+
+.list li:hover{
+    border: 1.5px solid plum;
+    background-color: black;
+}
+
+.list ul li a .on{
+    border: 2px palegreen;
+}
+.logo img{
+    width: 95px;
+    height: auto;
+    float: left;
+    margin: 20px;
+}
+
+.title{
+   /* position: absolute;*/
+    width:1200px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+h1{
+    color:blue;
+    text-transform: uppercase;
+    font-size: 80px;
+    text-align: center;
+    padding-top: 100px;
+    padding-right: 140px;
+    font-family: Shruti;
+    text-shadow: 5px 5px 4px palegreen;
+}
+
+h2{
+    color:palegreen;
+    text-transform: none;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 40px;
+    font-family: Maiandra GD;
+    text-shadow: 2px 2px 3px blue;
+    
+}
+
+table{
+    text-align: center;
+    margin-top: 100px;
+    padding-right: 90px;
+    border: 3px solid palegreen;
+    
+}
+
+table tr{
+    padding-top 70px;
+    
+    color: white;
+    
+}
+
+table tr th{
+    font-size: 40px;
+    font-family: cursive;
+    color: blue;
+    padding-bottom: 30px;
+    text-shadow: 1px 1px 2px palegreen;
+
+    
+}
+
+table tr td{
+
+    font-size: 30px;
+    padding-top: 10px;
+    color: palegreen;
+    text-shadow: 1px 3px 3px blue;
+    padding-bottom: 5px;
+}
+
+.button{
+    margin-top: 30px;
+    margin-left:550px;
+}
+
+.regis{
+    border: 1px solid white;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    font-size: 35px;
+    text-transform: uppercase;
+    font-family: cursive;
+     
+    
+}
+
+.regis:hover{
+    border: 5px solid blue;
+    color: red;
+    font-size: 34px;
+}
+
+
+
+
+
+
+
+
+
+
